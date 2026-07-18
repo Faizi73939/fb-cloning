@@ -1,1 +1,1 @@
-import FaiziMods.so
+import FaiziMods
