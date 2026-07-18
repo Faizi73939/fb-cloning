@@ -1,1 +1,1 @@
-import FaiziMods
+import Faizimods
