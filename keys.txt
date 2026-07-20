@@ -1,7 +1,4 @@
-{
-  "approved_keys": [
+FZ-BAX304-ECE299-DEX778-BBA292
 
-"FZ-BAX304-ECE299-DEX778-BBA292",
+  
 
-  ]
-}
